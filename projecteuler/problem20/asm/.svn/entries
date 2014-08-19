@@ -1,0 +1,40 @@
+8
+
+dir
+1
+https://socrates/svn/projecteuler/problem20/asm
+https://socrates/svn/projecteuler
+
+
+
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+
+
+svn:special svn:externals svn:needs-lock
+
+problem20.s
+file
+
+
+
+
+2008-05-14T05:48:50.000000Z
+11e4f93ef8fa2afca30af5eee96aa368
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+
+Makefile
+file
+
+
+
+
+2008-05-12T19:11:44.000000Z
+6923891c0a4b3d623d87bd66fe900c9a
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+

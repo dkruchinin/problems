@@ -1,0 +1,167 @@
+8
+
+dir
+0
+https://socrates/svn/projecteuler
+https://socrates/svn/projecteuler
+
+
+
+2008-06-29T15:44:19.838366Z
+0
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6689e2c3-7f2e-4341-9c7f-ab0dc575918e
+
+problem1
+dir
+
+problem5
+dir
+
+problem2.lisp
+file
+1
+
+
+
+2008-03-26T20:31:46.000000Z
+507a96579d2c9ca90de1293474f7edd9
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+
+problem25.cpp
+file
+3
+
+
+
+2008-07-01T09:32:52.000000Z
+d123da35e8af38f0e438b4b619cbca69
+2008-07-01T12:31:01.016811Z
+3
+dnnk
+
+problem11.py
+file
+1
+
+
+
+2008-06-29T13:04:13.000000Z
+b6a102b4fdad2b9723afefbf1faccba8
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+has-props
+
+problem16.ss
+file
+1
+
+
+
+2008-03-26T20:49:16.000000Z
+08ee881d87e3ccad04ac6f89b5e7ee72
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+
+problem3.pl
+file
+1
+
+
+
+2008-03-26T20:39:51.000000Z
+80134c6b325f4cdd9741ec20a1e274fe
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+has-props
+
+problem7.lisp
+file
+1
+
+
+
+2008-03-26T20:43:34.000000Z
+be6e565afd2479479d2b0b57011e77d8
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+has-props
+
+problem10
+dir
+
+problem20
+dir
+
+problem8.pl
+file
+1
+
+
+
+2008-03-26T20:46:15.000000Z
+364e93abb6427f9f38328f6c67a74fba
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+has-props
+
+problem13
+dir
+
+problem4.ss
+file
+1
+
+
+
+2008-03-26T20:45:09.000000Z
+aa8d44bb4da49e3d5d30e181eacdc403
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+
+problem9.c
+file
+1
+
+
+
+2008-05-12T15:39:09.000000Z
+2231be52cb4301a28aee60c9b8285497
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+
+problem14.lisp
+file
+2
+
+
+
+2008-07-01T05:27:05.000000Z
+d05b01cd3c396cc851b46526649882db
+2008-07-01T08:35:19.933186Z
+2
+dnnk
+

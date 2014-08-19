@@ -1,0 +1,41 @@
+8
+
+dir
+1
+https://socrates/svn/projecteuler/problem1
+https://socrates/svn/projecteuler
+
+
+
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+
+
+svn:special svn:externals svn:needs-lock
+
+problem1.lisp
+file
+
+
+
+
+2008-03-26T20:24:52.000000Z
+c8368ad774f37fd108f99b16d5c6a70f
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+
+problem1.pl
+file
+
+
+
+
+2008-03-26T20:29:20.000000Z
+6a514928a56ef6fc93de427fbc8841cb
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+has-props
+

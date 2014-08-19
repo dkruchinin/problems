@@ -1,0 +1,32 @@
+8
+
+dir
+1
+https://socrates/svn/projecteuler/problem20
+https://socrates/svn/projecteuler
+
+
+
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+
+
+svn:special svn:externals svn:needs-lock
+
+asm
+dir
+
+problem20.py
+file
+
+
+
+
+2008-05-14T05:46:43.000000Z
+e18e27c3f53dae464b46e71fd1b66442
+2008-06-29T16:02:36.850670Z
+1
+dnnk
+has-props
+
