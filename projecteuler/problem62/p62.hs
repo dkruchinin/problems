@@ -1,11 +1,6 @@
 module Main where
 
 import Data.List (nub, permutations, sort)
-import qualified Data.Set as S
-
-isCube :: Integer -> Bool
-isCube n = n == cr ^ 3
-  where cr = round $ (fromIntegral n) ** (1/3)
 
 cube :: Integer -> Integer
 cube n = n ^ 3
@@ -31,7 +26,6 @@ isPermutation a b = sort a == sort b
 findCube :: Int -> Int -> Maybe Integer
 findCube nd np = doFind cubes
   where cubes         = genCubes nd
-        normalize n   = read (sort $ show n) :: Integer
 
         doFind []     = Nothing
         doFind (x:xs)
