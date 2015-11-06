@@ -1,3 +1,5 @@
 *.o
 *.pyc
+*.hi
+*.DS_Store
 
