@@ -1,5 +1,6 @@
 module Main where
 
+import System.Environment
 import Control.Monad.State
 import Data.List.Split (splitOn)
 import qualified Data.PQueue.Min as PQ
@@ -65,4 +66,7 @@ readMatrix fname = do
   return $ V.fromList . map makeRow . lines $ ctx
 
 main :: IO ()
-main = putStrLn "done"
+main = do
+  [fname] <- getArgs
+  matrix  <- readMatrix fname
+  putStrLn $ "Minimal path sum: " ++ show (findMinPathSum matrix)
